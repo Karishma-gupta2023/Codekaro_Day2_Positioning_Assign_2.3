@@ -53,14 +53,25 @@ h5{
 input{
     width:350px;
     padding:5px;
-   
+    border:none;
     
 
 }
+
 
 select{
     padding:5px;
+    border:none;
+    border-right: 0.5px solid gray;
     
 }
+
+.search{
+    background-color: white;
+    padding: 5px;
+    border-radius: 8px;
+   
+}
+
 
 
